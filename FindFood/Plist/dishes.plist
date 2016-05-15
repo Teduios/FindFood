@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>categoryName</key>
+		<string>小吃快餐</string>
+		<key>subcategories</key>
+		<array>
+			<string>川味小吃</string>
+			<string>排骨米饭</string>
+			<string>麻辣烫</string>
+			<string>砂锅店</string>
+			<string>馄饨</string>
+            <string>面馆</string>
+            <string>快餐简餐</string>
+            <string>熟食/零食</string>
+            <string>老北京小吃</string>
+            <string>江浙小吃</string>
+		</array>
+	</dict>
+	<dict>
+		<key>categoryName</key>
+		<string>火锅</string>
+		<key>subcategories</key>
+		<array>
+			<string>干锅</string>
+			<string>砂锅</string>
+			<string>芋儿鸡</string>
+			<string>重庆火锅</string>
+			<string>涮涮锅</string>
+			<string>涮羊肉</string>
+			<string>四川火锅</string>
+		</array>
+	</dict>
+	<dict>
+		<key>categoryName</key>
+		<string>本帮江浙菜</string>
+		<key>subcategories</key>
+		<array>
+			<string>宁波菜</string>
+			<string>绍兴菜</string>
+			<string>杭帮菜</string>
+			<string>无锡菜</string>
+            <string>建德菜</string>
+            <string>舟山菜</string>
+            <string>浙江菜</string>
+            <string>湖鲜</string>
+		</array>
+	</dict>
+</array>
+</plist>

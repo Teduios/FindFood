@@ -1,0 +1,30 @@
+//
+//  PrefixHeader.pch
+//  FindFood
+//
+//  Created by tarena on 16/4/7.
+//  Copyright © 2016年 tarena. All rights reserved.
+//
+
+#ifndef PrefixHeader_h
+#define PrefixHeader_h
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "Constants.h"
+#import "Masonry.h"
+#import "AFNetworking.h"
+#import "NSObject+Networking.h"
+#import <YYKit.h>
+#import "NSObject+Parse.h"
+#import "UITableView+Refresh.h"
+#import <BlocksKit.h>
+#import <BlocksKit+UIKit.h>
+#import "sys/utsname.h"
+#import "BMapKit.h"
+#import "MBProgressHUD.h"
+#import "UIImageView+RoundImageView.h"
+#import "UIView+HUD.h"
+#import "UILabel+RoundLabel.h"
+#import "UIButton+RoundButton.h"
+#endif /* PrefixHeader_h */
